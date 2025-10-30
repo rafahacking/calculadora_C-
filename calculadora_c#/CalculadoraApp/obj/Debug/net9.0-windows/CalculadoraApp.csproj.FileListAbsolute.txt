@@ -1,0 +1,14 @@
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\bin\Debug\net9.0-windows\CalculadoraApp.exe
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\bin\Debug\net9.0-windows\CalculadoraApp.deps.json
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\bin\Debug\net9.0-windows\CalculadoraApp.runtimeconfig.json
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\bin\Debug\net9.0-windows\CalculadoraApp.dll
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\bin\Debug\net9.0-windows\CalculadoraApp.pdb
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\CalculadoraApp.AssemblyInfo.cs
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\CalculadoraApp.dll
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\refint\CalculadoraApp.dll
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\CalculadoraApp.pdb
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\CalculadoraApp.genruntimeconfig.cache
+C:\Users\rafat\OneDrive\Documentos\corte\calculadora_c#\CalculadoraApp\obj\Debug\net9.0-windows\ref\CalculadoraApp.dll
